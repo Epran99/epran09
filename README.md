@@ -1,4 +1,4 @@
-# Hi there, I'm epran09 👋
+# Hi there, I'm Simon Nagarkoti (epran09) 👋
 
 > Short, memorable tagline that summarizes who you are and what you build (replace this line with your own).
 
