@@ -1,6 +1,6 @@
 # Hi there, I'm Simon Nagarkoti (epran09) 👋
 
-> Short, memorable tagline that summarizes who you are and what you build (replace this line with your own).
+> Short, memorable tagline that summarizes who you are and what you build.
 
 [![Website](https://img.shields.io/badge/website-your-site-blue?style=for-the-badge&logo=google-chrome)](#)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?style=for-the-badge&logo=linkedin)](#)
@@ -11,7 +11,7 @@
 ## 🧭 About Me
 I'm a software professional passionate about building reliable, scalable systems and delightful developer experiences. I love solving hard problems with clean, pragmatic code and learning new technologies along the way.
 
-- 🔭 Currently working on: **project-name** (short one-line description)
+- 🔭 Currently working on: 
 - 🌱 I’m learning: Your current focus (e.g., Rust, Machine Learning, DevOps, GraphQL)
 - 👯 Looking to collaborate on: Types of projects you want to join
 - 💬 Ask me about: Topics you enjoy helping others with
