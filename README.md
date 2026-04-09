@@ -1,4 +1,4 @@
-# Hi there, I'm Simon Nagarkoti (epran09) 👋
+# Hi there, I'm Simon Nagarkoti 👋
 
 > Short, memorable tagline that summarizes who you are and what you build.
 
@@ -38,46 +38,12 @@ A few projects I'm proud of. Add repository links and 1–2 line descriptions.
 - [project-two](https://github.com/yourname/project-two) — Short description and why it matters.
 - [project-three](https://github.com/yourname/project-three) — Short description and tech highlights.
 
-Tip: Pin your favorite repos on your GitHub profile so visitors find them quickly.
-
----
-
-## 📈 GitHub Stats
-You can optionally include dynamic stats here (GitHub Readme Stats, streaks, top languages). Example badges/snippets can be added once you confirm you want them.
-
----
-
-## 🎙 Talks & Writing
-- Blog: [Your Blog](https://yourblog.com) — Short description of topics you write about.
-- Talks: Title — Event (Year) — Link to slides or recording.
-
----
 
 ## 🤝 Get In Touch
-- Email: you@example.com
+- Email: simonnagarkoti6709@gmail.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- Website/Portfolio: [your-website.com](https://your-website.com)
 
 Open to collaborations, contracting, and mentorship — let me know how we can work together!
 
 ---
 
-## ❤️ Support / Sponsors
-If you like my work, consider starring my repositories, following me, or sponsoring me.
-
----
-
-## 🧾 Resume
-Download: [Resume (PDF)](https://your-website.com/resume.pdf)
-
----
-
-## 🔧 How you can use this README
-- Replace placeholder text (tagline, current work, skills, project links).
-- Add/remove sections to fit your profile and goals.
-- If you want, I can add badges, automated GitHub stats, or a Projects showcase with live data.
-
----
-
-Thanks for stopping by — let's build something great! 🚀
