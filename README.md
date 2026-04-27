@@ -9,10 +9,10 @@
 ---
 
 ## 🧭 About Me
-I'm a software professional passionate about building reliable, scalable systems and delightful developer experiences. I love solving hard problems with clean, pragmatic code and learning new technologies along the way.
+I'm a software professional with a growing passion for Machine Learning and AI. I enjoy exploring how intelligent systems work and love building projects that bridge the gap between data and real-world applications.
 
-- 🔭 Currently working on: 
-- 🌱 I’m learning: Your current focus (e.g., Rust, Machine Learning, DevOps, GraphQL)
+- 🔭 Currently working on: Text_to_SQL — a project that converts natural language queries into SQL using AI
+- 🌱 I’m learning: NLP, SLMs, LLMs, and Fine Tuning techniques
 - 👯 Looking to collaborate on: Types of projects you want to join
 - 💬 Ask me about: Topics you enjoy helping others with
 - ⚡ Fun fact: One personal tidbit (hobby, side project, or quirky fact)
